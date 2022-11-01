@@ -1,0 +1,2 @@
+60 has been added in 112
+Quantity Sold	: 50 from Food Item ID: 14
